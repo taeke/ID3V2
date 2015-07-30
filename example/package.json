@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "id3v2 example",
+  "main": "example.js",
+  "scripts": {},
+  "keywords": [
+    "example",
+    "Id3v2"
+  ],
+  "author": "Taeke van der Veen",
+  "license": "MIT",
+  "dependencies": {
+    "ID3V2": "^0.1.0"
+  }
+}

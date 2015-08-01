@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Reading ID3 version 2 tags",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taeke/ID3V2.git"
+  },
   "directories": {
     "example": "example"
   },
